@@ -29,5 +29,5 @@ $(function(){
 		if($(this).val() == ''){
 			$(this).val('请输入内容').css('color','#999')
 		}
-	})
+	});
 })
