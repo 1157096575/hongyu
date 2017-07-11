@@ -1,4 +1,5 @@
 $(function(){
+	/////////
 	$('.honour .liWrap').mouseover(function(){
 		$(this).addClass('current').siblings().removeClass('current')
 	})
